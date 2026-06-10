@@ -1,45 +1,35 @@
 <div align="center">
 
-# Hi, I'm 123pik1 👋
-### Computer Science Student
+# Hi there, I'm 123pik1 👋
 
-I am a developer who loves understanding how software interacts with hardware. My experience ranges from **Assembly & UEFI** up to **Java applications** and **Network Security**.
+### 💻 Computer Science Student | Systems & Security Enthusiast
 
-</div>
+Jestem deweloperem skupiającym się na interakcji oprogramowania z warstwą sprzętową. Moje doświadczenie i projekty obejmują programowanie niskopoziomowe, automatyzację infrastruktury, rozwój aplikacji oraz cyberbezpieczeństwo. Na co dzień pracuję w środowisku **NixOS** i **Neovim**.
 
 ---
 
 ### 🔭 Project Highlights
 
-| Domain | Project | Status | Description |
-| :--- | :--- | :--- | :--- |
-| **🛡️ Security** | **NIDS (Intrusion Detection)** | 📝 *Researching* | Currently analyzing requirements and architecture for a group-based **Network Intrusion Detection System**. |
-| **💾 Systems** | **UEFI Bare-Metal Game** | 🚧 *In Progress* | Developing a game running directly on **UEFI Firmware** (no OS) using C++. |
-| **🔌 Tooling** | **Micro Editor Plugin** | ✅ *Completed* | Written a **Lua** plugin to extend the [Micro text editor](https://micro-editor.github.io/) features. |
+#### 🚧 Work in Progress
+* **ML-NIDS (Projekt Inżynierski):** System wykrywania intruzów sieciowych oparty na Pythonie i ZeroMQ. Odpowiadam za implementację silnika sygnatur, który przepisuję na język **Rust**.
+* **Labirynt Śmierci:** Projekt gry rozwijany w ekosystemie **Rust** + **Tauri**.
+* **Homelab (NixOS):** Serwer domowy postawiony na systemie NixOS obsługujący Nextcloud, blog, whiteboard oraz lokalną instancję Gitea (z wejściem w automatyzację deployu). Zarządzanie sekretami wdrożone za pomocą `sops-nix`.
+
+#### ✅ Completed & Proof of Concept
+* **EFI Platformer:** Gra platformowa napisana w języku **C** działająca bezpośrednio w środowisku EFI (na potrzeby przedmiotu *Oprogramowanie systemowe*).
+* **Wtyczka do edytora Micro:** MVP wtyczki typu `filetree` napisane w języku **Lua**.
+* **Aplikacja Szyfrująca Pliki:** Projekt akademicki realizowany w języku **Java** na przedmiot *Wprowadzenie do Cyberbezpieczeństwa*.
+* **Migracja Strony Parafialnej:** Aktualizacja projektu z Angulara 13 do 19 (TypeScript, standalone components) wraz z optymalizacją kosztów hostingu zdjęć.
+* **Cyberiada:** Stworzenie dwóch gier na silniku Unity (jedna w ramach gamejamu, druga długoterminowa).
 
 ---
 
-### 🛠️ The Tech Stack
+### 🛠️ Tech Stack & Tools
 
-**🔹 Low-Level & Systems**
-> *Where I spend most of my time.*
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Assembly](https://img.shields.io/badge/Assembly_(MASM)-%23525252.svg?style=flat-square&logo=assembly&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
-
-**🔹 Object-Oriented & Application**
-> *For structured, scalable software.*
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
-
-**🔹 Scripting & Automation**
-> *For rapid prototyping and tooling.*
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=flat-square&logo=lua&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-
----
-
-### 📊 GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=123pik1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=123pik1&layout=compact&theme=tokyonight&hide_border=true" height="150" />
-</p>
+* **Języki programowania:** Rust (w trakcie nauki), Java, C#, ASM, TypeScript, C, C++, Lua, Nix, SQL, Python
+* **Frameworki i Web:** Angular, Svelte, HTML
+* **Bazy danych:** PostgreSQL
+* **Systemy i Narzędzia:** NixOS, Neovim
 <!--
 **123pik1/123pik1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,5 +1,3 @@
-<div align="center">
-
 # Hi there, I'm 123pik1 👋
 
 ### 💻 Computer Science Student | Systems & Security Enthusiast

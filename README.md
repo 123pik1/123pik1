@@ -2,10 +2,10 @@
 💻 Computer Science Student | Systems & Security Enthusiast
 
 I am a developer focused on the interaction between software and the hardware layer. My experience and projects span low-level programming, infrastructure automation, application development, and cybersecurity. I work in a NixOS and Neovim environment daily.
----
-🔭 Project Highlights
 
-## 🚧 Work in Progress
+## 🔭 Project Highlights
+
+### 🚧 Work in Progress
 
     ML-NIDS (Engineering Thesis Project): A network intrusion detection system based on Python and ZeroMQ. I am responsible for implementing the signature engine, which I am rewriting in Rust.
 
@@ -13,7 +13,7 @@ I am a developer focused on the interaction between software and the hardware la
 
     Homelab (NixOS): A home server running on NixOS, hosting Nextcloud, a blog, a whiteboard, and a local Gitea instance (with upcoming deployment automation). Secrets management is implemented using sops-nix.
 
-## ✅ Completed & Proof of Concept
+### ✅ Completed & Proof of Concept
 
     EFI Platformer: A platformer game written in C, running directly in the EFI environment (for the System Software course).
 
@@ -25,7 +25,7 @@ I am a developer focused on the interaction between software and the hardware la
 
     Cyberiada: Developed two games using the Unity engine (one for a game jam, one long-term project).
 
-## 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack & Tools
 
     Programming Languages: Rust (currently learning), Java, C#, ASM, TypeScript, C, C++, Lua, Nix, SQL, Python
 
